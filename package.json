@@ -12,7 +12,7 @@
   "dependencies": {
     "geolib": "^2.0.23",
     "lodash": "^4.17.4",
-    "mongoose": "^4.12.3",
+    "mongoose": "^4.13.21",
     "node-telegram-bot-api": "^0.28.0"
   },
   "devDependencies": {
